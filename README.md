@@ -1,4 +1,4 @@
-# word_proximity_search_tool
+# Word proximity search tool
 Searches for words in documents that are close to each other
 
 `word1 *3 word2`
